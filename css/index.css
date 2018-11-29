@@ -64,8 +64,7 @@ header {
 }
 
 .main {
-    width: 943px;
-    height: 386px;
+    width: 77%;
     padding: 20px 5px 5px 5px;
 
 }
@@ -162,11 +161,9 @@ h1 {
     display: flex;
 }
 
-.image-about {
-    width: 694px;
-    height: 455px;
-    background-image: url("../images/kpp.png");
-    background-repeat: no-repeat;}
+.image-about img {
+    width: 100%;
+}
 
 .about div h1 {
     font-weight: 600;
