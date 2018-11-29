@@ -1,0 +1,15 @@
+@media screen and (max-width: 980px) {
+    html {
+        font-size: 70%;
+    }
+
+    .footer-menu_1, .footer-menu_2, .footer-menu_3 {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    html {
+        font-size: 85%;
+    }
+}
