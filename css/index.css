@@ -61,6 +61,7 @@ header {
 .main-right {
     display: flex;
     padding: 0px 15px 0px 15px;
+    height: 427px;
 }
 
 .main {
@@ -203,7 +204,7 @@ h1 {
 }
 
 .lessons__yoga__menu {
-    width: 430px;
+    width: 320px;
 }
 
 .lessons__yoga__menu ul {
