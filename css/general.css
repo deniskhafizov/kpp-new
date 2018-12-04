@@ -1,0 +1,95 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: Panton; font-weight: 400; font-size: 1rem; line-height: 1.2;
+    margin: 0 auto;
+
+}
+
+div.content { width: 1264px; min-height: 2617px;
+    margin: 0 auto;
+    /*box-shadow: 0 0 15px #858585;
+    background-color: rgb(254, 248, 233);*/
+}
+
+header {
+    min-width: 700px;
+}
+
+.logo {
+    padding: 20px 20px 0px 40px;
+    max-width: 225px; max-height: 55px;
+    min-width: 225px;
+}
+
+
+
+.vk {
+    position: relative; top: -45px; height: 32px;
+    margin: 0px 10px 0px 10px;
+}
+
+.logo__vk {
+    width: 108px; height: 8px;
+    float: right;
+}
+
+.logo__vk_roll {
+    padding-right: 40px;
+}
+
+.menu {
+    line-height: 1.2;
+    padding: 2rem 3.2rem 1.25rem 2.6rem;
+}
+
+.menu_nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__item {
+    padding: 0.5rem 0rem 0.5rem 0rem;
+    text-decoration: underline;
+    font-weight: 600;
+    color: rgb(51, 112, 153);
+}
+
+.footer {
+    padding-right: 200px;
+}
+
+.footer__logo {
+    padding: 65px 20px 10px 40px;
+}
+
+.footer__vk {
+    padding: 0px 20px 10px 100px;
+}
+
+.footer__vk img {
+    padding: 0px 15px 0px 15px;
+}
+
+.footer__kpp {
+    padding-left: 113px;
+}
+
+.foot {
+    display: flex;
+}
+.footer-menu_1, .footer-menu_2, .footer-menu_3 {
+    list-style: none;
+    padding: 60px 30px 0px 30px;
+    font-size: 14px;
+    line-height: 2.5;
+}
+
+.footer-menu_ul {
+    list-style: none;
+}
+
+
+

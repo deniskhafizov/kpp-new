@@ -1,0 +1,47 @@
+div.content {
+    min-height: 1578px;
+}
+
+.yoga-content {
+    padding: 60px 20px 0px 32px;
+    display: flex;
+}
+
+.yoga-content2, .yoga-content3 {
+    padding: 17px 20px 0px 32px;
+    display: flex;
+}
+
+.yoga-content_1, .yoga-content_2, .yoga-content_3,
+.yoga-content2_1, .yoga-content2_2, .yoga-content2_3,
+.yoga-content3_1, .yoga-content3_2, .yoga-content3_3{
+    padding: 0px 9px 0px 9px;
+}
+
+.yoga-content_1, .yoga-content_2, .yoga-content_3,
+.yoga-content2_1, .yoga-content2_2, .yoga-content2_3,
+.yoga-content3_1, .yoga-content3_2, .yoga-content3_3{
+    width: 379px;
+}
+
+.yoga-content_1__item1, .yoga-content_2__item1, .yoga-content_3__item1,
+.yoga-content2_1__item1, .yoga-content2_2__item1, .yoga-content2_3__item1,
+.yoga-content3_1__item1, .yoga-content3_2__item1, .yoga-content3_3__item1{
+    height: 236px;
+}
+
+.yoga-content_text1, .yoga-content_text2, .yoga-content_text3,
+.yoga-content2_text1, .yoga-content2_text2, .yoga-content2_text3,
+.yoga-content3_text1, .yoga-content3_text2, .yoga-content3_text3{
+    background-color: #e8e8e8;
+    width: 379px;
+    height: 110px;
+}
+
+.yoga-content_text1__item, .yoga-content_text1__item2, .yoga-content_text1__item3,
+.yoga-content2_text1__item, .yoga-content2_text1__item2, .yoga-content2_text1__item3,
+.yoga-content3_text1__item, .yoga-content3_text1__item2, .yoga-content3_text1__item3{
+    margin: 0px;
+    padding: 20px;
+    font-size: 19px;
+}
