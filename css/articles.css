@@ -1,39 +1,39 @@
 div.content {
-    min-height: 1230px;
+    min-height: 1578px;
 }
 
-.yoga-content {
+.articles-content {
     padding: 60px 20px 0px 32px;
     display: flex;
 }
 
-.yoga-content2 {
+.articles-content2, .articles-content3 {
     padding: 17px 20px 0px 32px;
     display: flex;
 }
 
-.yoga-content_1 {
+.articles-content_1{
     padding: 0px 9px 0px 9px;
     width: 379px;
 }
 
-.yoga-content_img {
+.articles-content_img {
     height: 236px;
 }
 
-.yoga-content_text {
+.articles-content_text {
     background-color: #e8e8e8;
     width: 379px;
     height: 110px;
 }
 
-.yoga-content_text__item {
+.articles-content_text__item {
     margin: 0px;
     padding: 20px 20px 10px 20px;
     font-size: 19px;
 }
 
-.yoga-content_text1__item___teg {
+.articles-content_text__teg {
     margin: 0px;
     padding: 2px 0px 20px 20px;
     font-style: italic;
