@@ -126,7 +126,7 @@ h1 {
 
 .lessons {
     display: flex;
-    padding: 140px  20px 10px 0px;
+    padding: 140px  0px 0px 0px;
 }
 
 .lessons div h1 {
@@ -149,7 +149,7 @@ h1 {
 }
 
 .lessons__yoga__menu ul {
-    padding-left: 39px;
+    padding-left: 30px;
 }
 
 .lessons__yoga__menu ul li {
