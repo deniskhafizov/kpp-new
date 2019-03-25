@@ -1,0 +1,17 @@
+.content-event_image {
+    text-align: center;
+}
+
+.content-text {
+    width: 794px;
+    margin: 0 auto;
+}
+
+.content-text p {
+    line-height: 1.9;
+    text-align: justify;
+}
+
+h2 {
+    font-family: "Panton"; font-weight: 400; color: rgb(51, 112, 153); line-height: 1.2;
+}
